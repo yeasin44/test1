@@ -1,0 +1,87 @@
+body {
+  background-color: #28394a;
+}
+/* ........Responsive for Mobile devices............. */
+@media only screen and (max-width: 767px) {
+  #todays-pic {
+    padding: 3px;
+    font-size: 10px;
+  }
+  #trending {
+    padding: 3px;
+    font-size: 10px;
+  }
+  #scroll {
+    padding: 1px;
+    font-size: 10px;
+  }
+  #sort-by {
+    font-size: 12px;
+  }
+  #box-output {
+    padding: 15px;
+  }
+  #output {
+    position: relative;
+    font-size: 12px;
+    top: 10px;
+  }
+  #box {
+    height: 50px;
+  }
+  #res-menu {
+    font-size: 15px;
+  }
+
+  #display-detail h2 {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  #detail-card {
+  }
+  #res-p p {
+    font-size: 8px;
+  }
+  #res-img {
+    width: 600px;
+  }
+  #res-img2 img {
+    width: 40px;
+  }
+  #res-p2 {
+    font-size: 7px;
+  }
+  #res-p3 {
+    font-size: 7px;
+  }
+  #author-section {
+    position: relative;
+  }
+  #rating {
+    margin-left: 10px;
+  }
+  #eye-icon {
+    font-size: 10px;
+  }
+
+  #eye-icon2 {
+    margin-left: -1px;
+    font-size: 10px;
+  }
+  #icon {
+  }
+  #icon label {
+    padding: 5px;
+  }
+  #icon2 {
+    position: relative;
+
+    top: 30px;
+  }
+  #img-container {
+  }
+  .img-container {
+    position: relative;
+    top: 24px;
+  }
+}
